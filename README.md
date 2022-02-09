@@ -1,2 +1,1 @@
-# xu_github.github.io
-blog
+I am trying to create my own blog…

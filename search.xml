@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我的梦想</title>
-    <url>/2022/02/09/%E6%A0%A1%E5%9B%AD%E5%B0%8F%E4%BA%8B/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>阿徐的征途</title>
     <url>/2022/02/08/hello-world/</url>
     <content><![CDATA[<p>欢迎来到阿徐的博客，每个人的一生都是一场独一无二的旅行。</p>
@@ -25,5 +17,13 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>我的梦想</title>
+    <url>/2022/02/09/%E6%A0%A1%E5%9B%AD%E5%B0%8F%E4%BA%8B/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐</tag>
+      </tags>
   </entry>
 </search>

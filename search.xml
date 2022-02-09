@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>“simon”</title>
-    <url>/2022/02/09/%E2%80%9Csimon%E2%80%9D/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>校园小事</title>
-    <url>/2022/02/09/%E6%A0%A1%E5%9B%AD%E5%B0%8F%E4%BA%8B/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>阿徐的征途</title>
     <url>/2022/02/08/hello-world/</url>
     <content><![CDATA[<p>欢迎来到阿徐的博客，每个人的一生都是一场独一无二的旅行。</p>
@@ -27,5 +17,15 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>“simon”</title>
+    <url>/2022/02/09/%E2%80%9Csimon%E2%80%9D/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>校园小事</title>
+    <url>/2022/02/09/%E6%A0%A1%E5%9B%AD%E5%B0%8F%E4%BA%8B/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>

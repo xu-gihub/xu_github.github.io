@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>阿徐的征途</title>
-    <url>/xu_github.github.io/2022/02/08/hello-world/</url>
+    <url>/2022/02/08/hello-world/</url>
     <content><![CDATA[<p>欢迎来到阿徐的博客，每个人的一生都是一场独一无二的旅行。</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -20,7 +20,7 @@
   </entry>
   <entry>
     <title>我的梦想</title>
-    <url>/xu_github.github.io/2022/02/09/%E6%A0%A1%E5%9B%AD%E5%B0%8F%E4%BA%8B/</url>
+    <url>/2022/02/09/%E6%A0%A1%E5%9B%AD%E5%B0%8F%E4%BA%8B/</url>
     <content><![CDATA[]]></content>
       <tags>
         <tag>不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐</tag>
